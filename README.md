@@ -2,7 +2,7 @@
 A python tool to retrieve information related to games
 
 
-- Retrive all urls 
+- Retrieve all urls 
 - Get information related to games from the given urls
 - Process the information and store it in a MySQL DB
 
