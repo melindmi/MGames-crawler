@@ -1,0 +1,15 @@
+drop table Games;
+drop table Platform;
+drop table GamePlatformRankScore;
+drop table GamePublish;
+drop table GameDeveloped;
+drop table GameGenre;
+drop table GamePerspective;
+drop table GameSport;
+drop table GameNonSport;
+drop table GameMisc;
+drop table GameAlternateTitle;
+drop table GamePartOfGroups;
+drop table GamePressSaysMain;
+drop table GameReleaseInfo;
+drop table GameRatingSys;
